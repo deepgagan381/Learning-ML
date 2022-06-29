@@ -1,3 +1,3 @@
 # Learning-ML
 
-This repository is created for exercise and Learning
+This repository is created for My own exercise and Learning.
